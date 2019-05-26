@@ -1,3 +1,9 @@
+/*
+ * @Author: 宋彦斌 
+ * @Date: 2019-05-26 17:32:32 
+ * @Last Modified by: 宋彦斌
+ * @Last Modified time: 2019-05-26 17:49:26
+ */
 # markdownlint
 
 > A Node.js style checker and lint tool for Markdown/CommonMark files.
